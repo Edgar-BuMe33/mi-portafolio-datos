@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio de Datos & IA</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f4f4f9; color: #333; }
+        h1 { color: #2b5282; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>🚀 Hola, bienvenido a mi proyecto en GitHub</h1>
+    <p>Este sitio está alojado 100% gratis usando GitHub Pages.</p>
+
+    <div class="card">
+        <h2>📊 Proyectos de Análisis y Modelos</h2>
+        <p>Aquí estaré documentando mis avances en estadística, visualización de datos y experimentación con modelos de Inteligencia Artificial.</p>
+    </div>
+</body>
+</html>
